@@ -1,5 +1,11 @@
 # @vercel/frameworks
 
+## 3.28.0
+
+### Minor Changes
+
+- 4bd58f2: Add Eve as an experimental framework declaration alongside Ash.
+
 ## 3.27.0
 
 ### Minor Changes

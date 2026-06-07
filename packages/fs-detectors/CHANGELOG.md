@@ -1,5 +1,15 @@
 # @vercel/fs-detectors
 
+## 6.7.9
+
+### Patch Changes
+
+- 9f9eed3: Nest Build Output API files for `experimentalServicesV2` under `.vercel/output/services/<name>`.
+- Updated dependencies [4bd58f2]
+- Updated dependencies [09c39af]
+  - @vercel/frameworks@3.28.0
+  - @vercel/build-utils@13.27.2
+
 ## 6.7.8
 
 ### Patch Changes
